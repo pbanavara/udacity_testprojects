@@ -1,0 +1,9 @@
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0009.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0008.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0007.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0006.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0005.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0004.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0003.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0002.png 1
+/Volumes/DATA-ML/datasets/video_sample/playingViolin_0001.png 1
